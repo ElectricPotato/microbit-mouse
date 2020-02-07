@@ -21,4 +21,3 @@ while True:
             mouse.click(Button.left, 1)
 
 ser.close()
-#git test
