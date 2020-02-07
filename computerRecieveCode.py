@@ -20,4 +20,5 @@ while True:
         else:
             mouse.click(Button.left, 1)
 
-ser.close()  
+ser.close()
+#git test
